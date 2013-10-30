@@ -6,6 +6,13 @@ using System.IO;
 
 namespace read_and_write_test
 {
+    class hola
+    {
+        public hola()
+        {
+
+        }
+    }
     class Program
     {
         static void Main(string[] args)
