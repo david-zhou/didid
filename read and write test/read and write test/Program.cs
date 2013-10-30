@@ -10,7 +10,7 @@ namespace read_and_write_test
     {
         public hola()
         {
-
+           //el esteban anda bien apestoso :(
         }
     }
     class Program
